@@ -2,6 +2,8 @@
 
 You are suggested to implement a simple landing page/UI for email management using Rails, Vue, mailgun API and whatever you want in addition. The simpler is better. Expected technologies used are: Ruby, ES6, CSS (with any pre/post processors), html.
 
+Success/error email statuses should be taken from Mailgun API
+
 ## Layout design
 
 Can be found here: https://www.figma.com/file/vm4FQxRYXiglH59ElJHd2N/Wireframing-Kit?node-id=73%3A211
