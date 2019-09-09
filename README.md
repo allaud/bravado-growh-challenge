@@ -2,7 +2,7 @@
 
 You are suggested to implement a simple landing page/UI for email management using Rails, Vue, mailgun API and whatever you want in addition. The simpler is better. Expected technologies used are: Ruby, ES6, CSS (with any pre/post processors), html.
 
-Success/error email statuses should be taken from Mailgun API
+Success/error email statuses should be taken from Mailgun API and shown in a following format: `"#{status} at #{status_changed_at}"`
 
 ## Layout design
 
