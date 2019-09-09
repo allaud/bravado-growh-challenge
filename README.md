@@ -6,6 +6,8 @@ You are suggested to implement a simple landing page/UI for email management usi
 
 Can be found here: https://www.figma.com/file/vm4FQxRYXiglH59ElJHd2N/Wireframing-Kit?node-id=73%3A211
 
+Modal window animation: https://youtu.be/VfiTQgSoLjg
+
 ![Image of Layout](https://i.imgur.com/5PvHoV8.png)
 
 ## Expected steps
